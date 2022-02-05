@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "test":{
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "test:portal_recipe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "test:give_test_portal"
+    }
+}

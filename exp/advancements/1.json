@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "using_powder":{
+            "trigger": "minecraft:item_used_on_block",
+            "conditions": {
+                "location": {
+                    "block": {
+                        "blocks": ["minecraft:iron_door"]
+                    }
+                },
+                "item": {
+                    "items": ["minecraft:firework_rocket"]
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "exp:sayhi"
+    }
+}

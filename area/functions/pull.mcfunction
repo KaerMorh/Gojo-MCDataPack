@@ -1,0 +1,2 @@
+execute as @e[distance=12..22,type=!arrow,type=!armor_stand,type=!item] positioned as @s rotated as @s facing entity @a[tag=area_user,sort=nearest,limit=1] eyes run tp @s ^ ^ ^1
+execute if entity @e[distance=12..22,type=!arrow,type=!armor_stand,type=!item] if entity @e[tag=area_user] run function area:pull
