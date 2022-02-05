@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{test:ray,display:{Name:'{"text":"测试用光束","color":"white","italic":false}'}}

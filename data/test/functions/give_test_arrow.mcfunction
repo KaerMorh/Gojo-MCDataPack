@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{test:arrow,display:{Lore:['{"text":"可以发射具有末端制导能力的箭矢，代价是箭将变得不可回收","color":"gold","italic":false}'],Name:'{"text":"测试用弓箭发射器","color":"green","italic":false}'}}

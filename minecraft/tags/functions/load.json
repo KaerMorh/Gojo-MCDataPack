@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        "area:load",
-        "ray:load",
-        "exp:load",
-        "test:load"
-    ]
-}

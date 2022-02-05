@@ -1,0 +1,1 @@
+execute as @s if score @s pid = #tp_user pid run scoreboard players set #tp_samepid pid 1

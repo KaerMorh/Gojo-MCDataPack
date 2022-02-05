@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:item",
+	"minecraft:arrow",
+	"minecraft:armor_stand",
+	"minecraft:dragon_fireball",
+	"minecraft:egg",
+	"minecraft:ender_pearl",
+	"minecraft:experience_bottle",
+	"minecraft:fireball",
+	"minecraft:llama_spit",
+	"minecraft:potion",
+	"minecraft:shulker_bullet",
+	"minecraft:small_fireball",
+
+	"minecraft:snowball",
+	"minecraft:spectral_arrow",
+	"minecraft:trident",
+	"minecraft:wither_skull",
+	"minecraft:experience_orb",
+	"minecraft:tnt",
+	"minecraft:area_effect_cloud",
+	"minecraft:evoker_fangs",
+	"minecraft:eye_of_ender",
+	"minecraft:firework_rocket",
+	"minecraft:fishing_bobber",
+	"minecraft:item_frame",
+
+	"minecraft:leash_knot",
+	"minecraft:lightning_bolt",
+	"minecraft:fishing_bobber",
+	"minecraft:painting"
+  ]
+}

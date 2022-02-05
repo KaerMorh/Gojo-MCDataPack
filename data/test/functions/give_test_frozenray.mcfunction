@@ -1,0 +1,1 @@
+give @p minecraft:carrot_on_a_stick{test:frozen,display:{Lore:['{"text":"魔法道具","color":"light_purple","italic":true}','{"text":"能够召唤冰冻魔法的宝物","color":"blue","italic":false}','{"text":"每次消耗4个青金石","color":"green","italic":false}'],Name:'{"text":"霜之哀伤·改","color":"dark_blue","italic":false}'}}

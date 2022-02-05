@@ -1,0 +1,6 @@
+首先让被瞄准者执行add_tag
+然后用start 即可在pos1 pos2中得到相差5t的坐标 并在pos3中得到每5t的坐标差 接下来用pos2 + (pos3 * n/5 )即可
+预判过后将posticking在store中的分数设置为2 表示可以开始下一轮
+execute store success score shoot_timing test_store run execute as @e[tag=looking] facing entity @e[tag=aimpos,limit=1] feet run tp @s ~ ~ ~ ~ ~
+execute if score shoot_right test_store matches 1 if score shoot_timing test_store matches 1 as @e[tag=looking] at @s positioned ~ ~1.6 ~ run function test:launch
+/execute as @e[type=minecraft:ghast,limit=1,sort=nearest] at @s run function test:aiming/add_tag
